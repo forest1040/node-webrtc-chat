@@ -1,5 +1,5 @@
 {
-"name":"node-webrtc-chat",
+"name":"node-webrtc-vchat",
 "version":"0.0.1",
 "dependencies": {
   "express" : "*",
