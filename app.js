@@ -74,5 +74,6 @@ var chat = io.of('/chat').on('connection', function(socket) {
     // clear room
   });
 });
-  
-app.listen(3001);
+
+var port = process.env.PORT || 3001;  
+app.listen(port);
