@@ -1,8 +1,8 @@
 {
-"name":"node-webrtc-vchat",
-"version":"0.0.1",
-"dependencies": {
-  "express" : "*",
-  "socket.io" : "*"
-}
+  "name":"node-webrtc-vchat",
+  "version":"0.0.1",
+  "dependencies": {
+    "express" : "*",
+    "socket.io" : "*"
+  }
 }
